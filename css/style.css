@@ -1,0 +1,41 @@
+/*
+color-primario: #886127
+color-secundario: #ffedd8
+color-terciario: #926305
+*/
+
+body{
+    background-color: #ffedd8;
+}
+
+
+h1{
+    color: #886127;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+}
+
+h3{
+    color: #976d2e;
+    font-family: 'Trebuchet MS';
+    font-size: 20px;
+}
+
+ul{
+    color: #ad7607;
+}
+
+a{
+    color: #ad7607;
+    font-family: 'Lucida Sans Unicode';
+    font-weight: bold;
+}
+
+label{
+    font-size: 14px;
+}
+
+form{
+    color: #926305;
+    font-family: 'Lucida Sans Unicode';
+}
